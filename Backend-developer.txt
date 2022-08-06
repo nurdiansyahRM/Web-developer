@@ -2,3 +2,6 @@ rencana belajar Backend-developer ketika sudah memahami tentang front-end develo
 -memahami tentang Internet
 -memahami basic pengetahuan front-end (HTML, css, Javascript);
 -memahami os dan general knowledge
+  Belajar PHP
+    Framework
+    Laravel
