@@ -1,0 +1,10 @@
+<title> web developer </title>
+Di umur saya 22 tahun  saya ingin fokus di web developer khususnya di front-end developer
+- mengenal HTML, Css dan javascript dasar. : true
+- mempelajari framework-framework  web developer khususnya front-end developer
+- belajar minimal 5 jam sehari max- lebih bagus
+
+flow jalur >
+akhir juli : belajar DOM (document object model ) Javascript;
+bulan agustus  2022 : belajar framework css {Grid, Sass, flexbox, tailwind, HTML5};
+bulan septermber 2022 : belajar framework laravel;
