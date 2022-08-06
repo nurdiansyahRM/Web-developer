@@ -1,0 +1,3 @@
+rencana belajar Backend-developer ketika sudah memahami tentang front-end developer
+-memahami tentang Internet
+-memahami basic pengetahuan front-end (HTML, css, Javascript);
