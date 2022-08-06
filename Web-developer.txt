@@ -7,4 +7,5 @@ Di umur saya 22 tahun  saya ingin fokus di web developer khususnya di front-end 
 flow jalur >
 akhir juli : belajar DOM (document object model ) Javascript;
 bulan agustus  2022 : belajar framework css {Grid, Sass, flexbox, tailwind, HTML5};
-bulan septermber 2022 : belajar framework laravel;
+bulan september 2022 : belajar framework laravel;
+bulan oktober 2022 : membuat project 
