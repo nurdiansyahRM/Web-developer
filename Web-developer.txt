@@ -10,3 +10,7 @@ bulan agustus  2022 : belajar framework css {Grid, Sass, flexbox, tailwind, HTML
 bulan september 2022 : belajar framework laravel;
 bulan oktober 2022 : membuat project 
 bulan november 2022 : mendalami tentang front-end developer
+flow jalur 2025 > 
+bulan juli belajar git sama laravel 
+bulan agustus belajar rest api
+bulan september judul skripsi 
